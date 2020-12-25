@@ -1,17 +1,9 @@
-# Template web
-template para usar nos estudos de web front-end.
+# API de Criptomoedas
+Usando API Coin Market Cap para exibir dados de criptomoedas.
 
-Para testar a versão ao vivo, [clique aqui.](https://cursos-e-estudos.github.io/template-de-web/)
+Para testar a versão ao vivo, [clique aqui.](https://cursos-e-estudos.github.io/front-criptomoedas-API/)
 <br>
 
-<p align="center">
-<b> Visual desktop </b>
-</p>
-<p align="center">
-  <img width="720" src="imgs/screenshot1.png">
-</p>
-
-<br>
 
 ---
 
@@ -22,8 +14,7 @@ Para testar a versão ao vivo, [clique aqui.](https://cursos-e-estudos.github.io
 <b> Visual mobile </b>
 </p>
 <p align="center">
-  <img width="200" src="imgs/screenshot2.png">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img width="200" src="imgs/screenshot3.png">
+  <img width="200" src="assets/screenshot1.png">
 </p>
 
 ---
